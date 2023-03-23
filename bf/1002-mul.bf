@@ -26,4 +26,4 @@
 >> ++++ ++	Add 6 to c3
 << -		Substract 1 to c1
 ]
->> 		Move to c3 and print the result
+>> . 		Move to c3 and print the result
